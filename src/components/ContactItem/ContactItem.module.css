@@ -1,0 +1,22 @@
+.listItem {
+  display: flex;
+  justify-content: space-between;
+  font-size: 18px;
+}
+
+.listBtn {
+  align-self: center;
+  border-radius: 50px;
+  font-size: 18px;
+  font-weight: 500;
+  color: red;
+  background-color: #e9e9e9;
+  width: 80px;
+  height: 40px;
+  cursor: pointer;
+}
+
+.listBtn:hover,
+.listBtn:focus {
+  background-color: #a28181;
+}

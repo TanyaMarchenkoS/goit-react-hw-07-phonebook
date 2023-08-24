@@ -1,0 +1,14 @@
+.listContainer {
+  display: flex;
+  gap: 16px;
+  flex-direction: column;
+  width: 400px;
+  padding: 40px;
+  border-radius: 10px;
+  background-color:  #e4cce6;
+
+}
+
+span {
+  margin-left: 30px;
+}
